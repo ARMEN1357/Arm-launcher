@@ -1,0 +1,141 @@
+#leftPanel {
+    background-color: #1e2328;
+}
+
+#logo {
+    margin: 0px 0px 200px 0px;
+}
+
+#navButton {
+    background-color: transparent;
+    border: none;
+}
+
+#navButton:hover {
+    background-color: #2a2f35;
+    border-radius: 10px;
+}
+
+#content {
+    background-color: #1e1f22;
+}
+
+#title {
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+}
+
+#subtitle {
+    color: #ccc;
+    font-size: 20px;
+}
+
+#subtitle2 {
+    color: #ccc;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+#textField {
+    background-color: white;
+    padding: 13px 8px;
+    font-size: 16px;
+    border-radius: 3px;
+    color: green;
+}
+
+#comboBox {
+    background-color: white;
+    padding: 13px 8px;
+    font-size: 16px;
+    border-radius: 3px;
+    color: green;
+}
+
+#playButton {
+    background-color: #0a7400;
+    color: white;
+    font-size: 25px;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+
+#aboutButton {
+    background-color: white;
+    color: green;
+    font-size: 25px;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+
+QWidget {
+    background-color: #1f2023;
+    color: white;
+    font-family: Segoe UI, sans-serif;
+}
+
+#sidebar {
+    background-color: #2d3136;
+    padding: 10px;
+}
+
+#iconBtn, #iconBtnActive {
+    border: none;
+    background-color: transparent;
+    min-height: 40px;
+    max-height: 40px;
+    margin: 10px 0;
+    qproperty-iconSize: 32px;
+}
+
+#iconBtnActive {
+    background-color: #0f0;
+    border-radius: 20px;
+}
+
+#titleLabel {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#subtitleLabel {
+    font-size: 14px;
+    color: #ccc;
+    margin-bottom: 20px;
+}
+
+#serverFrame {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#serverLabel {
+    color: green;
+    font-size: 30px;
+    background: white;
+}
+
+#serverButton {
+    background-color: #1d7a1d;
+    color: white;
+    padding: 20px 30px;
+    border-radius: 3px;
+    font-size: 30px;
+}
+
+#comboBox_laun {
+    background-color: white;
+    padding: 13px 8px;
+    font-size: 16px;
+    border-radius: 3px;
+    color: green;
+}
+
+#future_interface {
+    color: #ccc;
+    font-size: 30px;
+    margin-top: 120px;
+}
